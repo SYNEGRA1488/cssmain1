@@ -1,0 +1,38 @@
+#pogrubienie_lievichev {
+    font-size: 33px;
+    color: #895cce;
+    font-weight: bold;
+}
+
+#pochylona_lievichev {
+    font-size: 38px;
+    color: #EDC06A;
+    font-style: oblique;
+}
+#index_gorny_lievichev {
+    font-size: 1.3cm;
+    color: #9D8E1A;
+    text-transform: uppercase;
+}
+
+#index_dolny_lievichev {
+    font-size: 2.1cm;
+    color: rgb(22%, 95%, 88%);
+    text-transform: lowercase;
+}
+
+#mono_lievichev {
+    font-size: 43px;
+    color: #1DDE6A;
+    font-family: monospace;
+}
+
+#powiekszenie_lievichev {
+    color: #573E9C;
+    transform: scale(1.25);
+    padding-left: 100px;
+}
+#pomniejszenie_lievichev {
+    color: rgb(73%, 64%, 22%);
+    transform: scale(0.75);
+}

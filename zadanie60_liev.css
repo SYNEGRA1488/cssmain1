@@ -1,0 +1,21 @@
+div {
+    width: 616px;
+    background-color: yellow;
+    margin-bottom: 3%;
+ }
+ #blok1_Lievichev:hover{
+    background-color: red;
+ }
+ #blok2_Lievichev:hover{
+    background-color: gray;
+ }
+ #blok3_Lievichev:hover{
+    background-color: blue;
+ }
+ div:hover {
+    font-size: 19mm;
+ }
+
+
+/*hover -> gdy użytkownik najedzie kursorem na dany element
+Lievichev Kyrylo*/

@@ -1,0 +1,36 @@
+h3 {
+color: olive;
+}
+/* blok górny */
+#blok-gorny {
+width: 200pt;
+height: 2.5cm;
+background-color: #c0c0c0;
+border-top: 2px groove black;
+border-bottom: 2px groove gray;
+border-left: 4px groove red;
+border-right: 4px groove fuchsia;
+margin: auto;
+padding-left: 10px;
+}
+/* blok środkowy */
+#blok-srodkowy {
+width: 300pt;
+height: 2cm;
+background: silver;
+border: 3px ridge silver;
+margin-left: 16%;
+margin-top: 5%;
+text-align: center;
+}
+/* blok dolny */
+#blok-dolny {
+width: 400pt;
+height: 3cm;
+background: gray;
+border: 2px ridge maroon;
+margin-left: 40%;
+font-size: 12px;
+margin-top: 5%;
+}
+/*Kyrylo Lievichev, 1pG1*/
